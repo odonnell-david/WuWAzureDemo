@@ -17,7 +17,7 @@
     },
     "dnsLabelPrefix": {
       "type": "string",
-      "defaultValue": "wuwazuredemo20180416",
+      "defaultValue": "wuwazuredemo",
       "metadata": {
         "description": "Unique DNS Name for the Public IP used to access the Virtual Machine."
       }
@@ -43,8 +43,8 @@
     "addressPrefix": "10.0.0.0/16",
     "subnetName": "Subnet",
     "subnetPrefix": "10.0.0.0/24",
-    "publicIPAddressName": "WuWDemoVM1IP",
-    "vmName": "WuWDemoVM1",
+    "publicIPAddressName": "WuWDemoVM2IP",
+    "vmName": "WuWDemoVM2",
     "virtualNetworkName": "WuWDemoVNET",
     "subnetRef": "[resourceId('Microsoft.Network/virtualNetworks/subnets', variables('virtualNetworkName'), variables('subnetName'))]"
   },
