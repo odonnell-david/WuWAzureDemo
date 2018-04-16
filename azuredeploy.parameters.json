@@ -3,13 +3,13 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "adminUsername": {
-      "value": "GEN-USER"
+      "value": "WuWDemoUser"
     },
     "adminPassword": {
       "value": "GEN-PASSWORD"
     },
     "dnsLabelPrefix": {
-      "value": "GEN-UNIQUE"
+      "value": "wuwazuredemo20180416"
     }
   }
 }
