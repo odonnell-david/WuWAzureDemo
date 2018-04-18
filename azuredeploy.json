@@ -43,8 +43,8 @@
     "addressPrefix": "10.0.0.0/16",
     "subnetName": "Subnet",
     "subnetPrefix": "10.0.0.0/24",
-    "publicIPAddressName": "WuWDemoVM2IP",
-    "vmName": "WuWDemoVM2",
+    "publicIPAddressName": "WuWDemoVM3IP",
+    "vmName": "WuWDemoVM3",
     "virtualNetworkName": "WuWDemoVNET",
     "subnetRef": "[resourceId('Microsoft.Network/virtualNetworks/subnets', variables('virtualNetworkName'), variables('subnetName'))]"
   },
@@ -149,7 +149,7 @@
           },
           "dataDisks": [
             {
-              "diskSizeGB": 100,
+              "diskSizeGB": 300,
               "lun": 0,
               "createOption": "Empty"
             }
