@@ -9,7 +9,7 @@ Short Demonstration of GitHub Deployment to Azure Cloud
     <img src="http://armviz.io/visualizebutton.png"/>
 </a>
 
-<a href="#" onClick="MyWindow=window.open('http://armviz.io/#/?load=https%3A%2F%2Fraw.githubusercontent.com%2Fodonnell%2Ddavid%2FWuWAzureDemo%2Fmaster%2Fazuredeploy.json); return false;">
+<a href="#" onClick="MyWindow=window.open('http://armviz.io/#/?load=https%3A%2F%2Fraw.githubusercontent.com%2Fodonnell%2Ddavid%2FWuWAzureDemo%2Fmaster%2Fazuredeploy.json'); return false;">
     <img src="http://armviz.io/visualizebutton.png"/>
 </a>
 
