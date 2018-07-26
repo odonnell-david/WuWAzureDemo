@@ -44,7 +44,7 @@
     "subnetName": "Subnet",
     "subnetPrefix": "10.0.0.0/24",
     "publicIPAddressName": "WuWDemoVMIP",
-    "vmName": "WuWDemoVM",
+    "vmName": "WuWNEWVMName",
     "virtualNetworkName": "WuWDemoVNET",
     "subnetRef": "[resourceId('Microsoft.Network/virtualNetworks/subnets', variables('virtualNetworkName'), variables('subnetName'))]"
   },
